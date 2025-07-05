@@ -1,13 +1,13 @@
-.main-box{
+.parent{
     background-color: #73fe00;
     height: 350px;
     width: 500px;
 }
 
-.main-box>h1{
+.parent>h1{
     margin: 20px;
 }
-.main-box>p{
+.parent>p{
     margin: 20px;
 }
 
