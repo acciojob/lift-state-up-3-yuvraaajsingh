@@ -1,1 +1,37 @@
+.main-box{
+    background-color: #73fe00;
+    height: 350px;
+    width: 500px;
+}
 
+.main-box>h1{
+    margin: 20px;
+}
+.main-box>p{
+    margin: 20px;
+}
+
+.child-1{
+    margin-left: 25px;
+    height: 100px;
+    width: 450px;
+    background-color: #cb5b1a;
+}
+
+.child-1>button{
+    margin: 15px;
+}
+
+.child-2{
+    margin-left: 25px;
+    height: 100px;
+    width: 450px;
+    background-color: #fdd100;
+}
+.child-2>button{
+    margin: 15px;
+}
+
+.child-2>h2{
+    margin-top: 0;
+}
